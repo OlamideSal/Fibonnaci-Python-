@@ -1,0 +1,41 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.pyd
+*.pdb
+
+# Unit test / coverage
+.coverage
+htmlcov/
+.tox/
+.nox/
+pytest_cache/
+*.cover
+coverage.xml
+test-results/
+
+# Editor settings
+.vscode/
+.idea/
+*.swp
+
+# Virtual environments
+venv/
+.env/
+*.env
+
+# Git
+.git/
+.gitignore
+
+# OS / misc
+.DS_Store
+Thumbs.db
+
+# Docker
+docker-compose.yml
+Dockerfile.dev
+*.log
